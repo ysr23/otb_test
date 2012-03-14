@@ -6,4 +6,4 @@ Assumptions: about half way through it dawned on me that the imput was perhaps i
 
 Tests are perhaps a little verbose and there may be redundancy there but as time was ticking on I left as is
 
-Tests are simply the bullet points written as tests.
+Tests are simply the bullet points written as tests. Each test was written first and code was implemented to pass the test.
